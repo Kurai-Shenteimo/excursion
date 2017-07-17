@@ -1,17 +1,30 @@
 /* Selected all elements for the Background color */
 * {
   font-family: Verdana, sans-serif;
-  background-color: black;
+  background-color: Black;
   text-align: center;
 }
 
+/* Page Main Heading */
 h1{
   font-weight: normal;
   font-size: 50px;
-  color: white;
+  color: White;
 }
 
+/* All clickable links */
 :link {
-  color: aquamarine;
+  color: Aquamarine;
   font-size: 16px;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+  color: White;
+}
+
+.interest {
+  font-size: 21px;
+  color: Gray;
 }
